@@ -1,10 +1,4 @@
-# 🚀 SAULO RAMOS
-
-### 👋 &nbsp;¡Hola! Soy Saulo Ramos, Desarrollador de Software.
-
-Un programador con experiencia en la creación de soluciones eficientes, enfocado en el desarrollo de software, automatización de procesos y la integración de sistemas[cite: 2, 6, 8]. Utilizo mi experiencia en **Python** para optimizar flujos de trabajo con **Web Scraping** y **APIs**.
-
----
+## 👋 &nbsp;¡Hola! Soy Saulo Ramos, Desarrollador de Software.
 ### 📈 &nbsp;Estadísticas de GitHub 
 
 <p>
@@ -16,12 +10,17 @@ Un programador con experiencia en la creación de soluciones eficientes, enfocad
 
 ---
 
+Un programador con experiencia en la creación de soluciones eficientes, enfocado en el desarrollo de software, automatización de procesos y la integración de sistemas. Utilizo mi experiencia en **Python** para optimizar flujos de trabajo con **Web Scraping** y **APIs**.
+
+---
+
+
 
 ## 💻 &nbsp;Sobre Mí
 
 * 🤔 &nbsp; Experiencia en el uso de **Python** y **SQL** para crear soluciones, con énfasis en **arquitectura de software**.
 * 💡 &nbsp; Mis habilidades incluyen la **optimización de flujos de trabajo** con Web Scraping y APIs, y tengo conocimiento en **gestión de proyectos**.
-* 🎓 &nbsp; Poseo el título de **Tecnólogo en Ciencia de Datos** (5º semestre en curso) y hablo **Español avanzado**.
+* 🎓 &nbsp; Poseo el título de **Tecnólogo en Ciencia de Datos** (5º semestre en curso) y hablo **Portugues nativo**.
 
 ---
 
