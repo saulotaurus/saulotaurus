@@ -2,21 +2,31 @@
 
 ### 👋 &nbsp;¡Hola! Soy Saulo Ramos, Desarrollador de Software.
 
-[cite_start]Un programador con experiencia en la creación de soluciones eficientes, enfocado en el desarrollo de software, automatización de procesos y la integración de sistemas[cite: 2, 6, 8]. [cite_start]Utilizo mi experiencia en **Python** para optimizar flujos de trabajo con **Web Scraping** y **APIs**.
+Un programador con experiencia en la creación de soluciones eficientes, enfocado en el desarrollo de software, automatización de procesos y la integración de sistemas[cite: 2, 6, 8]. Utilizo mi experiencia en **Python** para optimizar flujos de trabajo con **Web Scraping** y **APIs**.
+
+---
+### 📈 &nbsp;Estadísticas de GitHub 
+
+<p>
+<a href="https://github.com/sauloramos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cdthomp1&show_icons=true&theme=radical" alt="Estadísticas de Saulo Ramos" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cdthomp1&theme=radical&layout=compact&exclude_lang=java+r" alt="Lenguajes de Saulo Ramos" />
+</a>
+</p>
 
 ---
 
+
 ## 💻 &nbsp;Sobre Mí
 
-* 🤔 &nbsp; Experiencia en el uso de **Python** y **SQL** para crear soluciones, con énfasis en **arquitectura de software**[cite: 8].
-* 💡 &nbsp; Mis habilidades incluyen la **optimización de flujos de trabajo** con Web Scraping y APIs, y tengo conocimiento en **gestión de proyectos**[cite: 9, 11].
-* 🎓 &nbsp; Poseo el título de **Tecnólogo en Ciencia de Datos** (5º semestre en curso) y hablo **Español avanzado**[cite: 37, 38].
+* 🤔 &nbsp; Experiencia en el uso de **Python** y **SQL** para crear soluciones, con énfasis en **arquitectura de software**.
+* 💡 &nbsp; Mis habilidades incluyen la **optimización de flujos de trabajo** con Web Scraping y APIs, y tengo conocimiento en **gestión de proyectos**.
+* 🎓 &nbsp; Poseo el título de **Tecnólogo en Ciencia de Datos** (5º semestre en curso) y hablo **Español avanzado**.
 
 ---
 
 ## 🛠️ &nbsp;Tech Stack & Habilidades
 
-[cite_start]He organizado tus habilidades técnicas basándome en la información de tu CV[cite: 14, 15, 16, 17, 18]:
 
 ### 🌐 &nbsp;Lenguajes y Core
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -45,16 +55,6 @@
 
 ---
 
-### 📈 &nbsp;Estadísticas de GitHub 
-
-<p>
-<a href="https://github.com/sauloramos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cdthomp1&show_icons=true&theme=radical" alt="Estadísticas de Saulo Ramos" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cdthomp1&theme=radical&layout=compact&exclude_lang=java+r" alt="Lenguajes de Saulo Ramos" />
-</a>
-</p>
-
----
 
 ## 🤝🏻 &nbsp;Conecta Conmigo
 
