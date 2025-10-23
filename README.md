@@ -61,7 +61,5 @@ Para consultas profesionales o colaboraciones, puedes contactarme:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/sauloramos"><img src="https://img.shields.io/badge/-Saulo%20Ramos-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:sramos.saulo@gmail.com"><img src="https://img.shields.io/badge/-sramos.saulo@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://wa.me/56938929605"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 
 </p>
