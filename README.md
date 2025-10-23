@@ -60,6 +60,6 @@ Un programador con experiencia en la creación de soluciones eficientes, enfocad
 Para consultas profesionales o colaboraciones, puedes contactarme:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sauloramos"><img src="https://img.shields.io/badge/-Saulo%20Ramos-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/ramos-saulo"><img src="https://img.shields.io/badge/-Saulo%20Ramos-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 </p>
